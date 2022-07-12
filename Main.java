@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 import java.util.Map.Entry;
-import java.util.Random; //for get random number
+import java.util.Random; //For get random number
  
 interface Separate {
 
