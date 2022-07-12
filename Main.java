@@ -13,7 +13,7 @@ interface Separate {
 }
 
 
- class IDInvalidException extends Exception { // custom created Exception Class
+ class IDInvalidException extends Exception { // Custom created Exception Class
 
     public IDInvalidException(String s) {
         super(s);
@@ -22,6 +22,7 @@ interface Separate {
 
 }
 
+//Implementations
  class Student implements Separate { // Student class implements from Separate interface
     private String StudentName;
     private String Address;
